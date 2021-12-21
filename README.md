@@ -1,2 +1,3 @@
-# free-energy-simulations
-Scripts and data to run free energy calculations
+# General scripts for running free energy simulations
+
+These will mostly be for OpenMM but could contain others over time.
